@@ -1,0 +1,17 @@
+{
+  "name": "danktank",
+  "version": "1.0.0",
+  "description": "Backend for supplying meme backdrops to android app of the same name",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dominikus Dermann",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "multer": "^1.3.1"
+  }
+}
